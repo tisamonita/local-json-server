@@ -1,0 +1,22 @@
+{
+    "cars" : [
+        {
+            "id": 1,
+            "name": "Innova"
+        },
+        {
+            "id": 2,
+            "name": "Avanza"
+        },
+        {
+            "id": 3,
+            "name": "BMW"
+        }
+    ],
+    "order" : [
+        {
+            "id": 1,
+            "createdAt": ""
+        }
+    ]
+}
